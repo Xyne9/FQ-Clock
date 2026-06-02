@@ -24,9 +24,7 @@
       "softwareKeyboardLayoutMode": "pan",
       "edgeToEdgeEnabled": true
     },
-    "plugins": [
-      "expo-build-properties"
-    ],
+    "plugins": [],
     "web": {
       "favicon": "./assets/favicon.png"
     }
